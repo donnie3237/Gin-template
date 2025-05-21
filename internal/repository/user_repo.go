@@ -2,7 +2,7 @@ package repository
 
 import (
     "context"
-    "myapp/internal/model"
+    "mytemplate/internal/model"
     "go.mongodb.org/mongo-driver/mongo"
 )
 
